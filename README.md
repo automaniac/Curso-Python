@@ -1,1 +1,1 @@
-Minicurso de python voltado para aplicações desktop.
+Minicurso de Python voltado para aplicações desktop.
